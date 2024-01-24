@@ -6,6 +6,7 @@ excerpt:
 date: 2023-06-30
 venue: 'Production and Operations Management'
 paperurl: 
+authors: Yuanzheng Ma, Tong Wang, Huan Zheng, 2023.
 citation: 'Ma, Yuanzheng, Tong Wang, and Huan Zheng. "On fairness and efficiency in nonprofit operations: Dynamic resource allocations." Production and Operations Management 32.6 (2023): 1778-1792.'
 ---
 
