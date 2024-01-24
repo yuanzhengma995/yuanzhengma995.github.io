@@ -11,5 +11,5 @@ author_profile: True
 
 
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single.html %}
 {% endfor %}
