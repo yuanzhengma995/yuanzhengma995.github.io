@@ -14,6 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -39,6 +40,6 @@
     {% endif %}
 
     {% if post.venue%}<p>{{ post.authors}} {{post.venue}} .<p> {% endif %}
-
+  </li>
   </article>
 </div>
