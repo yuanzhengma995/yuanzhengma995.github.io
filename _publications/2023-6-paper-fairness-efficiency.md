@@ -13,4 +13,3 @@ We study a sequential resource allocation problem balancing fairness and efficie
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13940)
 
-Recommended citation: Ma, Yuanzheng, Tong Wang, and Huan Zheng. "On fairness and efficiency in nonprofit operations: Dynamic resource allocations." Production and Operations Management 32.6 (2023): 1778-1792.
