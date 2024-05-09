@@ -10,6 +10,12 @@ author_profile: True
 {% endif %}
 
 
+<!--
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
+{% endfor %}
+-->
+
+{% for index, post in site.publications reversed %}
+{{ index }}. {% include archive-single.html %}
 {% endfor %}
